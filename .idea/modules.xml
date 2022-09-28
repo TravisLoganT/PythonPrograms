@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../CheckPrimalityFunctions/.idea/CheckPrimalityFunctions.iml" filepath="$PROJECT_DIR$/../CheckPrimalityFunctions/.idea/CheckPrimalityFunctions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Fibonacci/.idea/Fibonacci.iml" filepath="$PROJECT_DIR$/../Fibonacci/.idea/Fibonacci.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/PythonPrograms.iml" filepath="$PROJECT_DIR$/.idea/PythonPrograms.iml" />
     </modules>
   </component>
